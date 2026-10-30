@@ -1,0 +1,27 @@
+# Debenhams Customer Service UK
+
+> UK customer service for Debenhams online orders, tracking, delivery, returns, refunds and product issues. This page provides searchable help and a customer care enquiry form. A phone number is collected as a required contact field so the team can follow up; it is not a published support telephone number.
+
+## Main resources
+
+- [Customer care home](https://debenhamscare.company/): Search help topics and contact customer care.
+- [Delivery information](https://www.debenhams.com/pages/informational/delivery): Dispatch, tracking, missing items and delivery questions.
+- [Returns information](https://www.debenhams.com/pages/informational/returns): Start a return and read the current returns policy.
+- [Privacy notice](https://www.debenhams.com/pages/informational/privacy): How personal information is handled.
+
+## Key customer answers
+
+- Order tracking: Use the tracking link in the dispatch confirmation email. Items in one order may be dispatched separately.
+- Changing an order: Orders are processed quickly and usually cannot be changed after placement. Unwanted items can be returned.
+- Starting a return: Send the customer care team the order number and item details for assistance with the next steps. Keep proof of postage.
+- Standard return window: 21 days from receipt, subject to the returns policy. Additional time may apply with Debenhams Deliver+.
+- Return cost: Returns start from GBP 2.49 per parcel and the fee is deducted from the refund.
+- Refund timing: Up to 14 days after the return is received, plus up to 5 additional days for the bank to show the refund.
+- Exchanges: Not currently offered. Return the item and place a new order.
+- Faulty or incorrect items: Provide the order number, product name and code, and a description. Have a photo ready when the team replies.
+
+## Contact and privacy
+
+The enquiry form collects name, email, required phone number, optional order number, topic and message. Submissions are delivered to the configured customer care inbox. Customers should never submit payment card details or passwords. Use of details is covered by the Debenhams privacy notice.
+
+Last updated: 2026-10-25
